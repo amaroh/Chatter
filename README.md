@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+Clojure Chatter
 
 ## Prerequisites
 
